@@ -4,7 +4,7 @@
 
 This is the code repository for the capstone project "Improved Adaptive Optimization for Language Modeling", by Andrew Siow and supervised by Professor Michael Choi. This paper demonstrates the effectiveness of landscape modification in improving validation performance in the domain of language modeling, and extends existing research by suggesting a novel hypothesis that landscape modification biases convergence to flatter minima in deep learning.  
 
-The paper is currently unavailable for public access, but will be made available in due course.
+Paper: [Improved Adaptive Optimization for Language Modeling](Andrew_Siow_Capstone_Improved_Adaptive_Optimization_Language_Modeling.pdf)
 
 ### Data
 The data/ folder contains data for training and validation losses and perplexities for the LSTM experiments. Each row corresponds to an epoch.
